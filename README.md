@@ -16,4 +16,4 @@
 
 <h1 align="left">Projects</h1>
 
-- 🏫 [https://github.com/shreykalkhnday/smax-school-solutions-web]**SMaxSchoolSolutions**
+- 🏫 [https://github.com/shreykalkhnday/smax-school-solutions-web](**SMaxSchoolSolutions**)
