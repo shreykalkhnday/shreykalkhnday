@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SMaxSchoolSolutions**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin and JavaScript**
 
 - 📫 How to reach me **developershreyk@gmail.com**
 
